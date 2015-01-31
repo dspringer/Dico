@@ -1,9 +1,6 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
+Dico is a web application that was conceptualized and created at #Hack4Congress on 1/31/2015. It's goal to date is to: Create a Mock Up UI for citizens, members of congress and others to identify, act on, and respond to citizen interest in issues. This README will be updated regularly
 
 * Ruby version
 
